@@ -133,4 +133,3 @@ const styles = StyleSheet.create({
     padding: 15,
   },
 });
-© 2021 GitHub, Inc.
